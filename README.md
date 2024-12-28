@@ -5,7 +5,7 @@
  
 <div align="center">
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
-<p> My name is Raúl Coelho and I live in Santo Tirso, Portugal. I started learning how to code in 2019, when I entered in the Computer Engineering course at <a href="https://www.isep.ipp.pt/" aria-label="ISEP" target="_blank">ISEP</a> (Instituto Superior de Engenharia do Porto). Since then I've finished my Bachelor's, started taking a Master's on computational systems and launched my profissional career.</p>
+<p> My name is Raúl Coelho and I live in Santo Tirso, Portugal. I started learning how to code in 2019, when I entered in the Computer Engineering course at <a href="https://www.isep.ipp.pt/" aria-label="ISEP" target="_blank">ISEP</a> (Instituto Superior de Engenharia do Porto). Since then I've finished my Masters's and launched my profissional career.</p>
 </div>
 
 
